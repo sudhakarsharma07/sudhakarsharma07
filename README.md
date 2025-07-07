@@ -13,7 +13,13 @@
 
 
 ###
-<h2 align="left">Hi 👋! <br>My name Sudhakar Sharma, <br> I'm a fourth-year B.Tech in Information Technology student from <br>ABES Engineering College Ghaziabad, Uttar Pradesh.</h2>
+<h2 align="left">
+  Hi 👋! <br>
+  My name is Sudhakar Sharma, <br>
+  I have recently completed my B.Tech in Information Technology <br>
+  from ABES Engineering College, Ghaziabad, Uttar Pradesh.
+</h2>
+
 
 ###
 
