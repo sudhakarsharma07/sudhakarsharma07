@@ -36,9 +36,11 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhakarsharma07&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakarsharma07&layout=compact&theme=radical" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sudhakarsharma07&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sudhakarsharma07&layout=compact&theme=radical" height="170" alt="Top Languages" />
 </p>
+
 
 ---
 
