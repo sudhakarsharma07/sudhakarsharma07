@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  A passionate MERN Stack Developer from India 🇮🇳
+  A passionate Full Stack Developer from India 🇮🇳
 </h3>
 
 <p align="center">
@@ -17,11 +17,9 @@
 <h2>👋 About Me</h2>
 
 - 👨‍💻 I’m currently working on **MERN stack projects**.
-- 📚 Recently completed my **B.Tech in Information Technology**.
-- 🌱 Exploring advanced backend with Node.js & TypeScript.
-- 💬 Ask me about **React, JavaScript, MongoDB, Express, Node.js**.
+- 💬 Skills **React, JavaScript, MongoDB, Express, Node.js**.
 - 📫 Reach me at **sudhakar881032@gmail.com**
-- 🎯 Goal: To become a Full Stack Developer.
+
 
 ---
 
@@ -80,12 +78,3 @@
 
 ---
 
-<h2>⚡ Fun Fact</h2>
-
-<img align="right" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Fun GIF" />
-
-- I love solving DSA problems on Leetcode.  
-- I enjoy building clean UIs and responsive designs.  
-- I'm always curious to learn and build better.
-
----
