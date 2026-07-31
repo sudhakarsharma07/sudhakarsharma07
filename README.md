@@ -16,7 +16,7 @@
 
 <h2>👋 About Me</h2>
 
-- 👨‍💻 I’m currently working on **MERN stack projects**.
+- 👨‍💻 I’m currently working on **Full stack projects**.
 - 💬 Skills **React, JavaScript, MongoDB, Express, Node.js**.
 - 📫 Reach me at **sudhakar881032@gmail.com**
 
